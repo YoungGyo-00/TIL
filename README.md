@@ -6,3 +6,4 @@
 - [REST API 디자인 가이드](https://shade-sled-bf2.notion.site/REST-API-5cbcfb59185547649733f7a56623a160)
 - [Cookie + Session & JWT](https://shade-sled-bf2.notion.site/Cookie-Session-40195d422a0142a48e4a86eed9cf12a8)
 - [Web Server vs WAS](https://shade-sled-bf2.notion.site/Web-Server-vs-WAS-0e41d262ec6240699751e78f169f39a4)
+- [SOLID 원칙](https://shade-sled-bf2.notion.site/SOLID-a9224f12e7254ec8bf05fe07622d04e6)
