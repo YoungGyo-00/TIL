@@ -19,3 +19,5 @@
 - [Hadoop Distributed File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
 - [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
   - [NiFi 설치 & Config 구성 % 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
+- [Apache Kafka](https://shade-sled-bf2.notion.site/Apache-Kafka-ae2ece4a464948ef94f9bcfe9e7a289a)
+  - [Pub/Sub](https://shade-sled-bf2.notion.site/Pub-Sub-9f51e9de95fc4b208bcfaad44fd4d4e9)
