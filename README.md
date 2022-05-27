@@ -16,10 +16,10 @@
 ### 2022 졸업 프로젝트
 ---
 - [Health Level 7](https://shade-sled-bf2.notion.site/HL7-ffe27fa14c3c46a0be0b83c3339ff1d9)
-- [Hadoop Distributed File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
-- [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
-  - [NiFi 설치 & Config 구성 % 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
+  - [HL7 한글 정리본](https://shade-sled-bf2.notion.site/8d698e0d14404569bbecc8edf0383487)
 - [Apache Kafka](https://shade-sled-bf2.notion.site/Apache-Kafka-ae2ece4a464948ef94f9bcfe9e7a289a)
   - [Pub/Sub](https://shade-sled-bf2.notion.site/Pub-Sub-9f51e9de95fc4b208bcfaad44fd4d4e9)
   - [Message Queue(MQ)](https://shade-sled-bf2.notion.site/Message-Queue-MQ-ca31a024325b4a33b67bf24f7c654379)
+- [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
+  - [NiFi 설치 & Config 구성 % 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
