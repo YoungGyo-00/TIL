@@ -6,6 +6,7 @@
 ---
 - [소켓, 웹 소켓, HTTP 통신](https://shade-sled-bf2.notion.site/HTTP-3ffbdb86d3be4f23ba6248dc975856c0)
 - [Cookie + Session & JWT](https://shade-sled-bf2.notion.site/Cookie-Session-40195d422a0142a48e4a86eed9cf12a8)
+- [Apache Tomcat](https://shade-sled-bf2.notion.site/Apache-Tomcat-b84b3f73bbd643069c44c731ce816745)
 
 ### 아키텍처
 ---
@@ -21,5 +22,5 @@
   - [Pub/Sub](https://shade-sled-bf2.notion.site/Pub-Sub-9f51e9de95fc4b208bcfaad44fd4d4e9)
   - [Message Queue(MQ)](https://shade-sled-bf2.notion.site/Message-Queue-MQ-ca31a024325b4a33b67bf24f7c654379)
 - [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
-  - [NiFi 설치 & Config 구성 % 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
+  - [NiFi 설치 & Config 구성 & 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
