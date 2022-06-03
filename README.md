@@ -19,6 +19,9 @@
   - [MFA(다단계 인증)](https://shade-sled-bf2.notion.site/MFA-9b15b5e275214f90a24f7dee09702007)
   - [AWS VPC 네트워크 구성](https://shade-sled-bf2.notion.site/AWS-VPC-12f649d9be86482892899a75a9df48f5)
   - [Bastion Host](https://shade-sled-bf2.notion.site/Bastion-Host-4e46374817f541df9f5ece1385765983)
+  - [RDS - MySQL 연동](https://shade-sled-bf2.notion.site/RDS-MySQL-f168f519af0f4a0ba719e0fb4eb2f27d)
+  - [S3(Simple, Storage, Service)](https://shade-sled-bf2.notion.site/S3-Simple-Storage-Service-b706f93a7a3341a7ba9c81cd318ae8dc)
+  - [AWS CLI 사용법](https://shade-sled-bf2.notion.site/AWS-CLI-9fdb505bd0d942cbb310b89cbe671075)
 
 ### 2022 졸업 프로젝트
 ---
