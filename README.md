@@ -35,3 +35,5 @@
 - [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
   - [NiFi 설치 & Config 구성 & 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
+- [Node.js + Express + Sequelize](https://shade-sled-bf2.notion.site/Node-js-Express-Sequelize-21dc604987224920bb907a167c926c9a)
+  - [Project Folder Structure](https://shade-sled-bf2.notion.site/Project-Folder-Structure-1f65ec5453ee4ef89c5cd52ca5e88782)
