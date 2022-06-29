@@ -22,6 +22,9 @@
   - [RDS - MySQL 연동](https://shade-sled-bf2.notion.site/RDS-MySQL-f168f519af0f4a0ba719e0fb4eb2f27d)
   - [S3(Simple, Storage, Service)](https://shade-sled-bf2.notion.site/S3-Simple-Storage-Service-b706f93a7a3341a7ba9c81cd318ae8dc)
   - [AWS CLI 사용법](https://shade-sled-bf2.notion.site/AWS-CLI-9fdb505bd0d942cbb310b89cbe671075)
+  - [AWS EC2 Ubuntu 프로젝트 배포 방법](https://shade-sled-bf2.notion.site/AWS-EC2-Ubunt-f07e67441bec485b9f7fe3089e0863a3)
+    - [Maven .war 파일 버전](https://shade-sled-bf2.notion.site/Maven-war-6e80eeeb0b554bfe93e2267d6f24241c)
+   
 
 ### 2022 졸업 프로젝트
 ---
@@ -37,3 +40,5 @@
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
 - [Node.js + Express + Sequelize](https://shade-sled-bf2.notion.site/Node-js-Express-Sequelize-21dc604987224920bb907a167c926c9a)
   - [Project Folder Structure](https://shade-sled-bf2.notion.site/Project-Folder-Structure-1f65ec5453ee4ef89c5cd52ca5e88782)
+  - [TypeScript 환경 세팅](https://shade-sled-bf2.notion.site/TypeScript-b5e3f6998c19430381c7d2a89bf2e051)
+  - [의존성 주입(DI) & 제어의 역전(IOC) in express](https://shade-sled-bf2.notion.site/DI-IOC-a3f8b07936a14efa969606e93216334a)
