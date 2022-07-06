@@ -14,7 +14,6 @@
 - [SOLID 원칙](https://shade-sled-bf2.notion.site/SOLID-a9224f12e7254ec8bf05fe07622d04e6)
 - [Web Server vs WAS](https://shade-sled-bf2.notion.site/Web-Server-vs-WAS-0e41d262ec6240699751e78f169f39a4)
 - [AWS / DevOps](https://shade-sled-bf2.notion.site/AWS-DevOps-4a17d516c2ae4b518f0550895a98b292)
-  - [WSL2 Ubuntu 20.04 LTS 구성](https://shade-sled-bf2.notion.site/WSL2-Ubuntu-20-04-LTS-16aa4613b36d4c3287d0fadde8cbcd2f)
   - [AWS EC2](https://shade-sled-bf2.notion.site/AWS-EC2-9dac63a0d277479eb5f50d8d95024453)
   - [MFA(다단계 인증)](https://shade-sled-bf2.notion.site/MFA-9b15b5e275214f90a24f7dee09702007)
   - [AWS VPC 네트워크 구성](https://shade-sled-bf2.notion.site/AWS-VPC-12f649d9be86482892899a75a9df48f5)
@@ -23,8 +22,13 @@
   - [S3(Simple, Storage, Service)](https://shade-sled-bf2.notion.site/S3-Simple-Storage-Service-b706f93a7a3341a7ba9c81cd318ae8dc)
   - [AWS CLI 사용법](https://shade-sled-bf2.notion.site/AWS-CLI-9fdb505bd0d942cbb310b89cbe671075)
   - [AWS EC2 Ubuntu 프로젝트 배포 방법](https://shade-sled-bf2.notion.site/AWS-EC2-Ubunt-f07e67441bec485b9f7fe3089e0863a3)
+    - [WSL2 Ubuntu 20.04 LTS 구성](https://shade-sled-bf2.notion.site/WSL2-Ubuntu-20-04-LTS-16aa4613b36d4c3287d0fadde8cbcd2f)
     - [Maven .war 파일 버전](https://shade-sled-bf2.notion.site/Maven-war-6e80eeeb0b554bfe93e2267d6f24241c)
-   
+    - [AWS RDS(PostgreSQL) 연동](https://shade-sled-bf2.notion.site/AWS-RDS-PostgreSQL-3dcc0c786d334fae92351bdf5bf01d12)
+    - [Synology Nas DB Server(PostgreSQL) 설치 및 연동](https://shade-sled-bf2.notion.site/Synology-Nas-PostgreSQL-c4db6dd7d8594a76b5a923d3834b5dbb)
+    - [Nas File Server Mount](https://shade-sled-bf2.notion.site/NAS-File-Server-Mount-9a37abe8140b4b30b7116e94748e0cb5)
+  - [Git 사용법](https://shade-sled-bf2.notion.site/Git-ffed9939d559453fa11d20a2a19bc279)
+    - [Git remote 사용법](https://shade-sled-bf2.notion.site/git-remote-b7bd21067d4c4cf5b9a5375d404665ec)
 
 ### 2022 졸업 프로젝트
 ---
@@ -38,7 +42,8 @@
 - [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
   - [NiFi 설치 & Config 구성 & 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
-- [Node.js + Express + Sequelize](https://shade-sled-bf2.notion.site/Node-js-Express-Sequelize-21dc604987224920bb907a167c926c9a)
+- [Node.js + Express + TypeORM](https://shade-sled-bf2.notion.site/Node-js-Express-Sequelize-21dc604987224920bb907a167c926c9a)
   - [Project Folder Structure](https://shade-sled-bf2.notion.site/Project-Folder-Structure-1f65ec5453ee4ef89c5cd52ca5e88782)
   - [TypeScript 환경 세팅](https://shade-sled-bf2.notion.site/TypeScript-b5e3f6998c19430381c7d2a89bf2e051)
   - [의존성 주입(DI) & 제어의 역전(IOC) in express](https://shade-sled-bf2.notion.site/DI-IOC-a3f8b07936a14efa969606e93216334a)
+  - [Express + TypeORM](https://shade-sled-bf2.notion.site/Express-TypeORM-e5617892646744cea9f859e5147383e5)
