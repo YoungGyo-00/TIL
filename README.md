@@ -49,3 +49,4 @@
   - [의존성 주입(DI) & 제어의 역전(IOC) in express](https://shade-sled-bf2.notion.site/DI-IOC-a3f8b07936a14efa969606e93216334a)
   - [Express + TypeORM](https://shade-sled-bf2.notion.site/Express-TypeORM-e5617892646744cea9f859e5147383e5)
   - [Express + TypeDI](https://shade-sled-bf2.notion.site/Express-TypeDI-55a2467f7de64a58bf39f75d70540213)
+  - [ts-node ignores d.ts files](https://shade-sled-bf2.notion.site/ts-node-ignores-d-ts-files-d78dd1e22d504ce393c4220874359f33)
