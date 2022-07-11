@@ -13,6 +13,7 @@
 - [REST API 디자인 가이드](https://shade-sled-bf2.notion.site/REST-API-5cbcfb59185547649733f7a56623a160)
 - [SOLID 원칙](https://shade-sled-bf2.notion.site/SOLID-a9224f12e7254ec8bf05fe07622d04e6)
 - [Web Server vs WAS](https://shade-sled-bf2.notion.site/Web-Server-vs-WAS-0e41d262ec6240699751e78f169f39a4)
+- [SOA(Service Oriented Archiecture)](https://shade-sled-bf2.notion.site/SOA-Service-Oriented-Archiecture-53544c871dd642d3936e242b5baefe26)
 - [AWS / DevOps](https://shade-sled-bf2.notion.site/AWS-DevOps-4a17d516c2ae4b518f0550895a98b292)
   - [AWS EC2](https://shade-sled-bf2.notion.site/AWS-EC2-9dac63a0d277479eb5f50d8d95024453)
   - [MFA(다단계 인증)](https://shade-sled-bf2.notion.site/MFA-9b15b5e275214f90a24f7dee09702007)
