@@ -51,3 +51,4 @@
   - [Express + TypeORM](https://shade-sled-bf2.notion.site/Express-TypeORM-e5617892646744cea9f859e5147383e5)
   - [Express + TypeDI](https://shade-sled-bf2.notion.site/Express-TypeDI-55a2467f7de64a58bf39f75d70540213)
   - [ts-node ignores d.ts files](https://shade-sled-bf2.notion.site/ts-node-ignores-d-ts-files-d78dd1e22d504ce393c4220874359f33)
+  - [Typescript Index Signature](https://shade-sled-bf2.notion.site/Typescript-Index-Signatures-81db6cb6adac455fa421a5de9d1745e8)
