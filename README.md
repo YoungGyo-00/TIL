@@ -41,7 +41,7 @@
   - [ts-node ignores d.ts files](https://shade-sled-bf2.notion.site/ts-node-ignores-d-ts-files-d78dd1e22d504ce393c4220874359f33)
   - [Typescript Index Signature](https://shade-sled-bf2.notion.site/Typescript-Index-Signatures-81db6cb6adac455fa421a5de9d1745e8)
   - [Typescript passport req.user 오류](https://shade-sled-bf2.notion.site/TypeScript-passport-req-user-bbecb4ed237c4910ac483e506ad1eda5)
-
+  - [Clean-Code-TypeScript](https://shade-sled-bf2.notion.site/Clean-Code-TypeScript-4424cf87e27d467a8f5b109c920a4aea)
 ### 2022 졸업 프로젝트
 ---
 - [Health Level 7](https://shade-sled-bf2.notion.site/HL7-ffe27fa14c3c46a0be0b83c3339ff1d9)
