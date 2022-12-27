@@ -1,15 +1,20 @@
 # TIL
+
 <b>(TIL) Today I Learned</b>\
 하루 동안 공부한 내용을 정리하는 용도의 저장소
 
 ### 네트워크
+
 ---
+
 - [소켓, 웹 소켓, HTTP 통신](https://shade-sled-bf2.notion.site/HTTP-3ffbdb86d3be4f23ba6248dc975856c0)
 - [Cookie + Session & JWT](https://shade-sled-bf2.notion.site/Cookie-Session-40195d422a0142a48e4a86eed9cf12a8)
 - [Apache Tomcat](https://shade-sled-bf2.notion.site/Apache-Tomcat-b84b3f73bbd643069c44c731ce816745)
 
 ### 아키텍처
+
 ---
+
 - [REST API 디자인 가이드](https://shade-sled-bf2.notion.site/REST-API-5cbcfb59185547649733f7a56623a160)
 - [SOLID 원칙](https://shade-sled-bf2.notion.site/SOLID-a9224f12e7254ec8bf05fe07622d04e6)
 - [Web Server vs WAS](https://shade-sled-bf2.notion.site/Web-Server-vs-WAS-0e41d262ec6240699751e78f169f39a4)
@@ -23,7 +28,8 @@
   - [S3(Simple, Storage, Service)](https://shade-sled-bf2.notion.site/S3-Simple-Storage-Service-b706f93a7a3341a7ba9c81cd318ae8dc)
   - [AWS CLI 사용법](https://shade-sled-bf2.notion.site/AWS-CLI-9fdb505bd0d942cbb310b89cbe671075)
 - [Git 사용법](https://shade-sled-bf2.notion.site/Git-ffed9939d559453fa11d20a2a19bc279)
-  - [Git remote 사용법](https://shade-sled-bf2.notion.site/git-remote-b7bd21067d4c4cf5b9a5375d404665ec)
+  - [git remote](https://shade-sled-bf2.notion.site/git-remote-b7bd21067d4c4cf5b9a5375d404665ec)
+  - [git commit convention + emoji](https://shade-sled-bf2.notion.site/Git-git-commit-convention-3b6a3eaf48244d438db53096b5c46946)
 - [Express + TypeORM + TypeDI](https://shade-sled-bf2.notion.site/Node-js-Express-Sequelize-21dc604987224920bb907a167c926c9a)
   - [Project Folder Structure - Express](https://shade-sled-bf2.notion.site/Project-Folder-Structure-1f65ec5453ee4ef89c5cd52ca5e88782)
   - [TypeScript 환경 세팅](https://shade-sled-bf2.notion.site/TypeScript-b5e3f6998c19430381c7d2a89bf2e051)
@@ -34,8 +40,11 @@
   - [Typescript Index Signature](https://shade-sled-bf2.notion.site/Typescript-Index-Signatures-81db6cb6adac455fa421a5de9d1745e8)
   - [Typescript passport req.user 오류](https://shade-sled-bf2.notion.site/TypeScript-passport-req-user-bbecb4ed237c4910ac483e506ad1eda5)
   - [Clean-Code-TypeScript](https://shade-sled-bf2.notion.site/Clean-Code-TypeScript-4424cf87e27d467a8f5b109c920a4aea)
+
 ### NIA 이미지 관리 시스템 Docs
+
 ---
+
 - [WSL2 Ubuntu 20.04 LTS 구성](https://shade-sled-bf2.notion.site/WSL2-Ubuntu-20-04-LTS-16aa4613b36d4c3287d0fadde8cbcd2f)
 - [DBeaver 설치](https://shade-sled-bf2.notion.site/DBeaver-c9ac1b9cbef7468eba598497aaefd43b)
 - [AWS EC2(WAS) .war 파일 배포](https://shade-sled-bf2.notion.site/Maven-war-6e80eeeb0b554bfe93e2267d6f24241c)
@@ -45,8 +54,11 @@
 - [Nas(File Server) - Mount](https://shade-sled-bf2.notion.site/NAS-File-Server-Mount-9a37abe8140b4b30b7116e94748e0cb5)
 - [이미지 업로드 API 테스트 방법](https://shade-sled-bf2.notion.site/API-2a899773416d4d22a0179e75c98a3dff)
 - [Label-Studio 이미지 라벨링 도구 테스트](https://shade-sled-bf2.notion.site/Label-Studio-98206dcf9f6b472fb63e4d9ca535cb8e)
+
 ### 2022 졸업 프로젝트
+
 ---
+
 - [Health Level 7](https://shade-sled-bf2.notion.site/HL7-ffe27fa14c3c46a0be0b83c3339ff1d9)
   - [HL7 한글 정리본](https://shade-sled-bf2.notion.site/8d698e0d14404569bbecc8edf0383487)
 - [Apache Kafka](https://shade-sled-bf2.notion.site/Apache-Kafka-ae2ece4a464948ef94f9bcfe9e7a289a)
@@ -54,6 +66,6 @@
   - [Message Queue(MQ)](https://shade-sled-bf2.notion.site/Message-Queue-MQ-ca31a024325b4a33b67bf24f7c654379)
   - [Kafka 설치 및 실행(CLI) - window](https://shade-sled-bf2.notion.site/Kafka-CLI-window-cd21b9ffd8fc4754aff7668713b7c5ee)
   - [Spring boot 연동 Kafka](https://shade-sled-bf2.notion.site/Spring-boot-Kafka-40749f9578dd477db886618429103603)
-- [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db) 
+- [Apache NiFi](https://shade-sled-bf2.notion.site/Apache-NiFi-e3d47fe5a0114d7d94f86c22d7a271db)
   - [NiFi 설치 & Config 구성 & 실행](https://shade-sled-bf2.notion.site/NiFi-baf0a9957ecf429c8eaf3131099c0098)
 - [HDFS(Hadoop File System](https://shade-sled-bf2.notion.site/HDFS-fcc6f7bab5ce451b9cc77828521a56e9)
